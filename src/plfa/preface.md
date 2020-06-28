@@ -55,8 +55,7 @@ the corresponding tactics for introduction and elimination of
 conjunctions.  The rules Coq applies to generate induction hypotheses
 can sometimes seem mysterious.  While the `notation` construct permits
 pleasingly flexible syntax, it can be confusing that the same concept
-must always be given two names, e.g., both `subst N x M` and `N [x :=
-M]`.  Names of tactics are sometimes short and sometimes long; naming
+must always be given two names, e.g., both `subst N x M` and `N [x := M]`.  Names of tactics are sometimes short and sometimes long; naming
 conventions in the standard library can be wildly inconsistent.
 *Propositions as types* as a foundation of proof is present but
 hidden.
