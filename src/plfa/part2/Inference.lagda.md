@@ -128,7 +128,7 @@ as before, we now have two judgments for the type of the term:
 
     Γ ⊢ M ↑ A
     Γ ⊢ M ↓ A
-
+[?]
 The first of these _synthesises_ the type of a term, as before,
 while the second _inherits_ the type.  In the first, the context
 and term are inputs and the type is an output; while in the
